@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HashTag</string>
+    <string name="search_hint">Search hashTag</string>
+    <string name="err_blank_search">Enter hashTag first :)</string>
+    <string name="pref_name">my_pref</string>
+    <string name="err_no_images_found">No images found :(</string>
+    <string name="err_no_internet">No Internet Connection :(</string>
+</resources>
